@@ -1,0 +1,61 @@
+/**
+*
+* style.css
+* @author - Ibrahim
+* @date - 07/02/2024
+**/
+
+.top-layer {
+    background-color: #460065;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 97%;
+    height: 50px;
+    padding: 0 30px;
+}
+
+.top-navbar ul {
+    display: flex;
+}
+
+.btm-layer {
+    background-color: #550065;
+    width: 97%;
+    height: 80px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-nav {
+    display: flex;
+    align-items: center;
+}
+
+.my-icon1 {
+    color: #ffffff;
+    width: 40px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #6E267C;
+    text-align: center;
+}
+
+.left-nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.right-nav ul {
+    display: flex;
+    align-items: center;
+}
